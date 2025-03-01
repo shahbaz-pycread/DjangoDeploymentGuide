@@ -1,0 +1,3 @@
+[submodule "BasicDjangoOnVercel"]
+	path = BasicDjangoOnVercel
+	url = https://github.com/shahbaz-pycread/BasicDjangoOnVercel.git
